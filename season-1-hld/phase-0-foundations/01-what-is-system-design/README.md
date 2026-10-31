@@ -1,6 +1,6 @@
 # 01 · What is System Design?
 
-> 🎥 Video: *(add YouTube link)* · 📝 [Homework](HOMEWORK.md) · ⏭️ Next: [02 · What happens when you open an app?](../02-client-server-dns-http/README.md)
+> 🎥 Video: *[What is System Design?](https://youtu.be/hLPQ3Ivgv9g)* · 📝 [Homework](HOMEWORK.md) · ⏭️ Next: [02 · What happens when you open an app?](../02-client-server-dns-http/README.md)
 
 ## In one line
 **System design = deciding *which parts* a product needs and *how they connect*, so it keeps working well when many people use it.**
