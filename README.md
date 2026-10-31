@@ -110,7 +110,7 @@ One concept per video · simple notes · homework for every video.
 OOP · SOLID · design patterns · concurrency · parking lot, LRU cache, elevator, Splitwise, BookMyShow LLD and more.
 
 ## 💬 Community
-- **Telegram:** *(add link)* — new videos, homework, polls
+- **Telegram:** *[Telegram](https://t.me/tathva)* — new videos, homework, polls
 - **Discussions:** post your homework answers and drawings here
 
 ---
