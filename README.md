@@ -16,7 +16,7 @@ One concept per video · simple notes · homework for every video.
 ### Phase 0 · Oota is born (Foundations)
 | # | Topic | Notes | Homework | Video |
 |---|---|---|---|---|
-| 01 | What is System Design? | [notes](season-1-hld/phase-0-foundations/01-what-is-system-design/README.md) | [hw](season-1-hld/phase-0-foundations/01-what-is-system-design/HOMEWORK.md) | soon |
+| 01 | What is System Design? | [notes](season-1-hld/phase-0-foundations/01-what-is-system-design/README.md) | [hw](season-1-hld/phase-0-foundations/01-what-is-system-design/HOMEWORK.md) | https://youtu.be/hLPQ3Ivgv9g |
 | 02 | What happens when you open an app? (Client–Server, DNS, HTTP) | [notes](season-1-hld/phase-0-foundations/02-client-server-dns-http/README.md) | [hw](season-1-hld/phase-0-foundations/02-client-server-dns-http/HOMEWORK.md) | soon |
 | 03 | Networking you actually need (IP, ports, TCP vs UDP, HTTPS) | [notes](season-1-hld/phase-0-foundations/03-networking-essentials/README.md) | [hw](season-1-hld/phase-0-foundations/03-networking-essentials/HOMEWORK.md) | soon |
 | 04 | APIs explained (REST, methods, status codes) | [notes](season-1-hld/phase-0-foundations/04-apis-rest/README.md) | [hw](season-1-hld/phase-0-foundations/04-apis-rest/HOMEWORK.md) | soon |
